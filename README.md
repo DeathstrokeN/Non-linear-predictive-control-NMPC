@@ -15,7 +15,6 @@ the theoritical work given by Prof. André Desbiens.
 
 Specifications desired : 
 - The parameters Hp, Hc and Lambda are adjustable.
-- Future set points are assumed to be equal to the current set point.
 - The motor cannot supply torques smaller than -1.5 N·m or larger than 1.5 N·m.
 - No static error following a step disturbance.
 - The observer : an extended Kalman filter.
