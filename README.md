@@ -3,10 +3,10 @@
 The main objective is to set : a non linear predictive controller.
 
 
-Description of the process to be controlled :
-The process is a pendulum. The torque U N·m will be manipulated in 
+Description of the system to be controlled :
+The system is a pendulum. The torque U N·m will be manipulated in 
 order to control the angle THETA rad. See figure.jpg to understand
-the theoritical work given by Prof. André Desbiens.  
+the theoritical work.  
 
 
 
